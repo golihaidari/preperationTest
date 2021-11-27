@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Calculator {
 
-    public void add(int x, int y){
+    public void add( int y){
         System.out.println("x+y= " + (x+y));
     }
 
