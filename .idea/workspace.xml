@@ -1,19 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79e91d0f-879c-4e86-a842-556652307ccd" name="Changes" comment="">
+    <list default="true" id="f4d5ab6a-d25b-4d7c-a57e-0cbb5e57d7f0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regnmaskin/src/com/company/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Regnmaskin/src/com/company/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regnmaskin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regnmaskin/.idea/artifacts/Regnmaskin_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regnmaskin/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regnmaskin/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regnmaskin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regnmaskin/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regnmaskin/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regnmaskin/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regnmaskin/Regnmaskin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regnmaskin/out/artifacts/Regnmaskin_jar/Regnmaskin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regnmaskin/out/production/Regnmaskin/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regnmaskin/out/production/Regnmaskin/com/company/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regnmaskin/out/production/Regnmaskin/main/resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regnmaskin/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regnmaskin/src/com/company/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regnmaskin/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="21Uy2AeHW8WOMFgkAFcz8MliHhf" />
+  <component name="ProjectId" id="21Xqjy7fWK3rj8XDdZceh80b3dz" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -74,37 +97,35 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Versionsstyring" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Calculator" />
+      <module name="Calculator" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="79e91d0f-879c-4e86-a842-556652307ccd" name="Changes" comment="" />
-      <created>1638009755042</created>
+      <changelist id="f4d5ab6a-d25b-4d7c-a57e-0cbb5e57d7f0" name="Changes" comment="" />
+      <created>1638097922353</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1638009755042</updated>
-      <workItem from="1638009756273" duration="186000" />
-      <workItem from="1638020303125" duration="360000" />
+      <updated>1638097922353</updated>
+      <workItem from="1638097923528" duration="134000" />
+      <workItem from="1638098158652" duration="35000" />
     </task>
     <servers />
   </component>
