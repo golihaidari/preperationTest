@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Calculator {
 
-    public void multiple(int x, int y){
-        System.out.println("x*y= " + (x*y));
+    public void multiple(int x){
+        System.out.println("x*4= " + (x*4));
     }
 
     public void add(int x, int y){
